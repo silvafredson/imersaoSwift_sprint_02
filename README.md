@@ -14,6 +14,7 @@
 
 <br>
 
+<div align="center">
+  <img src="/Users/fredsonsilva/Desktop/Screen Shot 2022-04-14 at 14.49.48.png" width="400px"/>
+</div>
 
-
-![Screen Shot 2022-04-14 at 14.49.48](/Users/fredsonsilva/Desktop/Screen Shot 2022-04-14 at 14.49.48.png)
