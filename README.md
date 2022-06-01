@@ -15,6 +15,6 @@
 <br>
 
 <div align="center">
-  <img src="/Users/fredsonsilva/Desktop/Screen Shot 2022-04-14 at 14.49.48.png" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/92945868/171304697-e7ebdb3f-b77e-4e25-8eff-0039efdd1fd5.png" width="400px"/>
 </div>
 
